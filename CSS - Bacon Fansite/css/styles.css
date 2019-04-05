@@ -1,0 +1,42 @@
+h1 {
+   color: #8f1537;
+   text-align: center;
+   font-size: 165px;
+   margin-top: 0;
+   margin-bottom: 0;
+ }
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  width: 35%;
+  /* width: 40%; */
+  /* border: 3px solid green */
+ }
+
+ p {
+   text-align: center;
+   word-spacing: normal;
+   font-size: 30px;
+   font-weight: bold;
+   font-style: italic;
+
+ }
+
+ .lakewood {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 8px;
+   width: 25%;
+
+ }
+ .wholeFoods {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 8px;
+   width: 5%;
+ }
